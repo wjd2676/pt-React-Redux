@@ -28,6 +28,7 @@ function App() {
         <Provider store={store}>
           <Left1 number={number}></Left1>
           <Right1></Right1>
+          <div>1</div>
         </Provider>
       </div>
     </div>
