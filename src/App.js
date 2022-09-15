@@ -29,6 +29,7 @@ function App() {
           <Left1 number={number}></Left1>
           <Right1></Right1>
           <div>1</div>
+          <div>2</div>
         </Provider>
       </div>
     </div>
